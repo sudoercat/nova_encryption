@@ -14,5 +14,6 @@
 ███████╗██║ ╚████║╚██████╗██║  ██║   ██║   ██║        ██║   ██║╚██████╔╝██║ ╚████║
 ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 </pre>
-Nova encryption is a homemade encryption tool by a rainbow table 
+Nova encryption is a homemade encryption tool by a rainbow table who is modiafble by yourself on the cryptage and decryptage files (it's long but easy trust me ^^)
+i hope you will love it and support this project
 </div>
